@@ -31,8 +31,8 @@ window.PORTFOLIO_CONFIG = {
       "Open to Consultant Endodontist Roles & Complex Referrals",
     heroEyebrow:
       "SENIOR ENDODONTIST · PHD CANDIDATE (THESIS SUBMITTED, DEFENSE PENDING) · DENTAL PHOTOGRAPHER",
-    heroHeadline: "20+ Years Preserving Teeth Others Deem",
-    heroHeadlineAccent: "Unrestorable.",
+    heroHeadline: "20+ Years Saving Teeth That Others",
+    heroHeadlineAccent: "Hesitate to Treat.",
     heroSubtitle:
       "Senior Endodontist with 20+ years of clinical practice and PhD candidate (thesis submitted, defense pending) in Endodontics at Kiel University, Germany. First author and statistical analyst of a 25-year survival study analyzing 14,233 teeth from the Karlsruhe clinic (Int Endod J, 2025). Specializing in complex retreatments, severe curvatures, separated instruments, open apices, internal resorption, C-shaped canals, calcified canals, ledge negotiation, and perforation repair.",
     metrics: [
